@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=844
+
+Syntax File for the Python Template Language:
+
+http://www.mems-exchange.org/software/quixote/doc/PTL.html
+
+A language used by the Web application framework, Quixote (http://www.mems-exchange.org/software/quixote/), which is mostly Python with embedded HTML.
+
+Uses python.vim and html.vim.
